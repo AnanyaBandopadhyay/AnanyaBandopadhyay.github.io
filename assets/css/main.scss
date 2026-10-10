@@ -37,3 +37,26 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* Name, page titles, section headings */
+.author__name,
+.page__title,
+.page__content h1,
+.page__content h2,
+.page__content h3 {
+  color: #0b1d3a;
+}
+
+/* Links */
+a {
+  color: #2b5fb3;
+}
+a:hover {
+  color: #e08a2c;
+}
+
+/* Subtle accent line under section headings */
+.page__content h2 {
+  border-bottom: 2px solid #e08a2c;
+  padding-bottom: 0.2em;
+}
