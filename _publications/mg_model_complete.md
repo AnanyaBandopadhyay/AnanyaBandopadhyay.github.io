@@ -1,5 +1,5 @@
 ---
-title: "The Peak of the Fallback Rate from Tidal Disruption Events: Dependence on Stellar Type"
+title: "Predicting the Properties of the Fallback Rate from Tidal Disruption Events: Investigating the Maximum Gravity Model"
 collection: publications
 category: manuscripts
 permalink: /publication/mg_model_complete
