@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/rpTDE_simulations
 #excerpt: ''
-date: 2026-10-07
+date: 2024-10-07
 venue: 'ApJ'
 #slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://iopscience.iop.org/article/10.3847/1538-4357/ad6a5a'
