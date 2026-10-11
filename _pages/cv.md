@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a pdf copy of my CV (updated October 2026) [here](/files/AnanyaBandopadhyay_CV.md).
+You can download a pdf copy of my CV (updated October 2026) [here](/files/AnanyaBandopadhyay_CV.pdf).
 
 
