@@ -1,3 +1,9 @@
+---
+permalink: /research/
+title: "Research"
+author_profile: true
+---
+
 My research is primarily focused on studying tidal interactions between astrophysical objects, and the impact of tidal deformation on fluid bodies. You can read more about these topics by following the links to my papers in the [Publications](/publications/) page
 
 # Tidal Disruption Events
