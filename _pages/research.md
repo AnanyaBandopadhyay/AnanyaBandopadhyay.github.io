@@ -12,9 +12,10 @@ A star that ventures too close to a supermassive black hole can be ripped apart 
 
 In the last decade, time-domain surveys have uncovered a growing population of TDE-like transient flares that re-brighten months to years after their original discovery. These events have been shown to arise from the repeated partial tidal disruption of stars on bound orbits, in a repeating partial tidal disruption event. By virtue of the repeating nature of the flares they emit, these systems enable us to probe the interiors of stars, stellar rotation and the formation channels for these systems, in addition to the properties of the supermassive black hole. 
 
-<video controls width="100%">
+<video controls playsinline preload="metadata" poster="/images/demo-poster.jpg" width="100%">
   <source src="/files/ZAMS1_torb100d.mp4" type="video/mp4">
   Your browser doesn't support embedded video.
+  <a href="/files/demo.mp4">Download the video</a> instead.
 </video>
 
 
